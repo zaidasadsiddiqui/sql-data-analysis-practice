@@ -26,15 +26,17 @@ Primary tables used:
 
 The repository is organized into concept-based SQL files:
 
-- `01_filtering_and_sorting.sql`
-- `02_aggregate_functions.sql`
-- `03_group_by_having.sql`
-- `04_joins.sql`
-- `05_subqueries.sql`
-- `06_case_statements.sql`
-- `07_window_functions.sql`
-- `08_business_problems.sql`
-- `09_date_functions.sql`
+- `01_basic_queries.sql`
+- `02_filtering_and_sorting.sql`
+- `03_aggregate_functions.sql`
+- `04_group_by_having.sql`
+- `05_joins.sql`
+- `06_subqueries.sql`
+- `07_case_statements.sql`
+- `08_window_functions.sql`
+- `09_business_problems.sql`
+- `10_date_functions.sql`
+
 
 ---
 
